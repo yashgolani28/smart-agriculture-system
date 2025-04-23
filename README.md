@@ -17,3 +17,5 @@ An intelligent hydroponics-based agriculture system using sensors, ESP32, and LS
 - `ml_model/` – ML model training and prediction
 - `firebase/` – Cloud configuration and database rules
 - `documentation/` – Documents for the project
+
+![WhatsApp Image 2025-04-10 at 13 45 15_0a4e37c5](https://github.com/user-attachments/assets/fb9c9b3c-c3db-4039-bc6a-690acd916fa5)
