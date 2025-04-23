@@ -18,5 +18,7 @@ An intelligent hydroponics-based agriculture system using sensors, ESP32, and LS
 - `firebase/` – Cloud configuration and database rules
 - `documentation/` – Documents for the project
 
-<img src="https://github.com/user-attachments/assets/fb9c9b3c-c3db-4039-bc6a-690acd916fa5" alt="Smart Agri System" width="400"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fb9c9b3c-c3db-4039-bc6a-690acd916fa5" alt="Smart Agri System" width="400"/>
+</div>
 
